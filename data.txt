@@ -1,0 +1,7 @@
+Kontrakan Kebagusan Dalam IV no 61A RT10/04 Jakarta Selatan 12520,1,2,3,4,5,6
+Pintu/Nama,Pembayaran Terakhir,Telat?,Mulai Sewa,Jatuh Tempo,KTP,Dokumen
+1/Nur Yuliatik,20-Oct-19,,11-Nov-18,11-Jan-20,Kamar10001.jpg,Kamar10001.pdf
+2/Sharissa Sasude (Shasha),01-Nov-19,TELAT,01-Dec-18,01-Jan-20,Kamar20001.jpg,Kamar20001.pdf
+3/Andi Rachmah (Ira),27-Oct-19,,26-Aug-19,26-Jan-20,Kamar30002.jpg,Kamar30002.pdf
+4/Siska Puspita Rahma,30-Oct-19,,25-Jan-19,25-Jan-20,Kamar40001.jpg,Kamar40001.pdf
+5/Suryadi,27-Oct-19,,25-Dec-18,25-Jan-20,Kamar50001.jpg,Kamar50001.pdf
